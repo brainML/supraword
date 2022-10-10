@@ -2,13 +2,12 @@
 code for the paper "Combining computational controls with natural text reveals new aspects of meaning composition"
 
 The requirements for running the code are:
-
-python>=3.7
-numpy
-scipy
-sklearn
-pickle
-nibabel
+- python>=3.7
+- numpy
+- scipy
+- sklearn
+- pickle
+- nibabel
 
 
 The fMRI data can be found at:
