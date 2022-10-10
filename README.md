@@ -12,8 +12,11 @@ nibabel
 
 
 The fMRI data can be found at:
+
 http://www.cs.cmu.edu/~fmri/plosone/
+
 The MEG data can be found at:
+
 https://kilthub.cmu.edu/articles/dataset/RSVP_reading_of_book_chapter_in_MEG/20465898
 
 
